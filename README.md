@@ -1,3 +1,3 @@
 # Rocket Chat Clean UI
 
-![Sample UI](https://github.com/cgaspard/rocketchat-cleantheme/raw/RocketChatTheme.gif)
+![Sample UI](https://raw.githubusercontent.com/cgaspard/rocketchat-cleantheme/master/RocketChatTheme.gif)
