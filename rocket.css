@@ -1,0 +1,62 @@
+.border-component-color {
+    border-color: #CECECE !important;
+}
+
+.formatting-tips {
+  display:none !important;
+}
+
+.flex-tab-bar {
+	border-radius: 10px;
+}
+
+.fixed-title {
+	background-color:#f8f8f8;
+	border-width: 0 0 0 0;
+    border-bottom: 1px solid #ececec !important;
+}
+
+.messages-container .footer {
+	border-width: 0 0 0 0;
+	z-index:10;
+	background-color: #f8f8f8;
+}
+
+.messages-container .message-form textarea {
+	background-color: #FFF;
+}
+
+.messages-container .message-form .users-typing { 
+	background-color: transparent;
+}
+
+.user-view .thumb {
+	position: absolute;
+	left:10px;
+	top:10px;
+	height:40px;
+	width:40px;
+}
+
+.user-view .info {
+	margin-left: 40px;
+}
+
+
+.flex-tab-container:hover {
+  opacity: 1;
+}
+
+.flex-tab-container {
+	position: absolute;
+    right: 20px;
+    padding-top: 10px;
+    border: 0px solid #efefef;	
+	transition: .5s;
+  	opacity: .1;
+	height: calc(80%);
+}
+
+.autogrow-shadow {
+	display:none; 
+}
