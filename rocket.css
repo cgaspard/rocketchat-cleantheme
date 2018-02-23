@@ -1,5 +1,22 @@
+.rc-message-box__container {
+  background-color:#FFF;
+}
+
 .border-component-color {
     border-color: #CECECE !important;
+}
+.rooms-list__type {
+  /*cursor:pointer;*/
+}
+
+.rooms-list .badge { 
+    display:none;
+    margin-left: .5rem;
+	margin-right: .5rem;
+}
+
+.sidebar__header {
+  padding-top: 15px;
 }
 
 .formatting-tips {
@@ -30,18 +47,6 @@
 	background-color: transparent;
 }
 
-.user-view .thumb {
-	position: absolute;
-	left:10px;
-	top:10px;
-	height:40px;
-	width:40px;
-}
-
-.user-view .info {
-	margin-left: 40px;
-}
-
 
 .flex-tab-container:hover {
   opacity: 1;
@@ -59,4 +64,8 @@
 
 .autogrow-shadow {
 	display:none; 
+}
+
+.message-actions {
+  right:3.4rem;
 }
